@@ -1,7 +1,7 @@
 /*
  * Class:		Booking
  * Description: The class represents a single booking record for
- * 				any object that can be booked.
+ * 				any object that can be booked
  * Author: Kobe Friswell - s3783258
  */
 
